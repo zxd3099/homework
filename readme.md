@@ -41,7 +41,7 @@ Commit your modification to the local git repository.
 
 ```shell
 git add weekn/studentID_studentName.docx
-git commit -m 'Ñ§ºÅ_ĞÕÃû_µÚnÖÜ×÷ÒµÌá½»'
+git commit -m 'å­¦å·_å§“å_ç¬¬nå‘¨ä½œä¸šæäº¤'
 ```
 
 ## step 6 Create new Pull Request
